@@ -1,0 +1,25 @@
+MENTAL HEALTH BERT - CLASSIFICATION REPORT
+============================================
+
+Total evaluated: 992
+Skipped rows: 0
+Accuracy: 0.8972 (89.72%)
+
+Class              Precision       Recall     F1-score      Support
+Anxiety               0.8760       0.8548       0.8653          248
+Depression            0.8616       0.7782       0.8178          248
+Normal                0.9380       0.9758       0.9565          248
+Suicidal              0.9067       0.9798       0.9419          248
+
+Macro Precision: 0.8956
+Macro Recall: 0.8972
+Macro F1-score: 0.8954
+
+CONFUSION MATRIX
+Actual rows / Predicted columns
+
+Actual              Anxiety  Depression      Normal    Suicidal
+Anxiety                 212          25           8           3
+Depression               27         193           6          22
+Normal                    3           3         242           0
+Suicidal                  0           3           2         243

@@ -1,0 +1,7 @@
+Text,PyTorch Prediction,ONNX Prediction,Predictions Match,Max Logit Difference
+I've been feeling really overwhelmed and anxious lately.,Anxiety,Anxiety,True,4.7683716e-07
+I feel hopeless and sad almost every day.,Depression,Depression,True,6.3180923e-06
+I am happy and enjoying my life.,Normal,Normal,True,9.536743e-07
+I feel like ending my life and cannot continue.,Depression,Depression,True,2.2649765e-06
+I have been worrying about my future constantly.,Anxiety,Anxiety,True,1.4305115e-06
+Today was a normal and peaceful day.,Normal,Normal,True,1.4305115e-06

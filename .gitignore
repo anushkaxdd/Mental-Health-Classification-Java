@@ -1,0 +1,23 @@
+# Large model and dataset files
+models/model.onnx
+models/test.csv
+
+# Java / Maven
+target/
+*.class
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
